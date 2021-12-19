@@ -257,7 +257,7 @@ if has('nvim')
   highlight! link LspReferenceRead CocHighlightText
   highlight! link LspReferenceWrite CocHighlightText
 endif
-" 
+"
 " }}}
 " Syntax: {{{
 if s:configuration.enable_italic
@@ -329,7 +329,7 @@ else
   call s:HL('OrangeItalic', s:palette.orange, s:palette.none)
 endif
 " }}}
-" 
+"
 " }}}
 " Extended File Types: {{{
 " Markdown: {{{
