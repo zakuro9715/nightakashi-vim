@@ -1,3 +1,11 @@
+# NightAkashi
+
+NightAkashi is colortheme based on [tokyonight](https://github.com/ghifarit53/tokyonight-vim)
+
+Akashi is histrical city in japan https://en.wikipedia.org/wiki/Akashi,_Hy%C5%8Dgo
+
+---
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/ghifarit53/tokyonight-vim/master/pictures/screenshot.png">
 </p>
